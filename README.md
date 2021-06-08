@@ -1,1 +1,1 @@
-"# Text Compressor" 
+# Text Compressor
